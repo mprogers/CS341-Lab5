@@ -3,3 +3,84 @@ Version 2.0
 Version 3.0
 Version 4.0
 Version 5.0
+
+vanin@DESKTOP-7IE43IJ MINGW64 ~/CS341-Lab5 (BenjaminWastartBranch)
+$ git lga
+* e692e4b (HEAD -> BenjaminWastartBranch, origin/BenjaminWastartBranch) “v5.0”
+* 7d3cd4d “v4.0”
+*   50c454b Merge branch 'main' into BenjaminWastartBranch
+|\
+| *   d7ce4b1 Merge branch 'main' of https://github.com/mprogers/CS341-Lab5
+| |\
+| | * a12aa8e Update contributors.txt
+| * | 5f90e23 Updated by Benjamin Wastart
+| |/
+* | 83e96d2 “v3.0”
+* | 425cf7c “v2.0”
+* | bd13758 “v1.0”
+|/
+*   ea55aa3 Merge branch 'main' of https://github.com/mprogers/CS341-Lab5
+|\
+| *   598de36 Merge branch 'AndrewZarlingBranch'
+| |\
+| | * a43e88a (origin/AndrewZarlingBranch) v5.0
+| | * 171a90e v4.0
+| * |   d2e85f6 Updated by AndrewZarling
+| |\ \
+| | |/
+| |/|
+| * | 8b4a60a v3.0
+| * | 6bcfc76 v2.0
+| * | e4c69a3 v1.0
+| * | cae2fe8 Updated by Andrew Zarling
+* | | 05831de v3.0
+* | | d6da963 v2.0
+* | | de0cfe7 v1.0
+* | | c094ce8 Updated by Qadar Isse
+| |/
+|/|
+* | 69b080f Update contributors.txt
+|/
+*   f206d69 Merge pull request #2 from mprogers/SebastianAmyotteBranch
+|\
+| * 4732c59 (origin/SebastianAmyotteBranch) v5.0
+| * fb505d3 v4.0
+| * f459cdc v3.0
+| * ba4317f v2.0
+| * a075664 v1.0
+| * 9128c22 Updated by Sebastian Amyotte
+|/
+* cf49bbe Updated by Nick Miller
+*   87c810d Merge branch 'main' of https://github.com/mprogers/CS341-Lab5
+|\
+| * a4c3037 v3.0
+| * 68aec0e v2.0
+| * f7546a8 v1.0
+| * e8f12f1 Updated by Paul Hwang
+* | 555556d v3.0
+* | 874ae3c v2.0
+* | 47bd982 v1.0
+|/
+* e80fbda added Xee Lo to contributor.txt
+*   4220c7f Merge pull request #1 from mprogers/MaximilianPattersonBranch
+|\
+| * 5c086b6 (origin/MaximilianPattersonBranch) v5.0
+| * 46d149d v4.0
+| * 35510d5 v3.0
+| * 5d84609 v2.0
+| * 9781f3f v1.0
+| * 5b39dd3 Updated by Maximilian Patterson
+|/
+*   912a081 Resolved merging conflicts
+|\
+| * 66e300c v3.0
+| * 1e68870 v2.0
+| * 806037c v1.0
+| * 14459dd Updated by Wil LaLonde
+* | 81326f7 v3.0
+* | c0f2b99 v2.0
+* | ff2bb7b v1.0
+* | c75e329 Brady Braun
+|/
+* 481494a Created contributors.txt
+(END)
