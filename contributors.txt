@@ -13,6 +13,7 @@ Zach La Vake
 Thomas Pelegrin
 Calvin Larson
 James Last
+Jared Larson
 Jack Halm
 Alex Rodriguez
 Woo Sik Choi
@@ -21,3 +22,4 @@ Rudy Liljeberg
 Sean Stille
 Jonathan Renier-Wigg
 James Chartraw
+Duaa Ahmad
