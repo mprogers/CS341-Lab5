@@ -13,4 +13,15 @@ Zach La Vake
 Thomas Pelegrin
 Calvin Larson
 James Last
+<<<<<<< HEAD
 Jared Larson
+=======
+Jack Halm
+Alex Rodriguez
+Woo Sik Choi
+Justin Vang
+Rudy Liljeberg
+Sean Stille
+Jonathan Renier-Wigg
+Duaa Ahmad 
+>>>>>>> origin/main
